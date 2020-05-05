@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53f4d12c-8a5d-48ca-86bd-3c7b0f7cf1f6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_4_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dynamic_proxy/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dynamic_proxy/JDKProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dynamic_proxy/JGLIBProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dynamic_proxy/Man.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-practice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dynamic_proxy/JGLIBProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dynamic_proxy/JGLIBProxy.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +32,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554793232983" />
-    <property name="last_opened_file_path" value="$MAVEN_REPOSITORY$/cglib/cglib/3.1/cglib-3.1-sources.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../x-server" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -126,42 +116,59 @@
       <option name="presentableId" value="Default" />
       <updated>1554792973941</updated>
       <workItem from="1554792979697" duration="253000" />
-      <workItem from="1588560802034" duration="15329000" />
+      <workItem from="1588560802034" duration="15907000" />
+      <workItem from="1588647766658" duration="2056000" />
     </task>
+    <task id="LOCAL-00001" summary="update 动态代理">
+      <created>1588612539203</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588612539203</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update 动态代理" />
+    <option name="LAST_COMMIT_MESSAGE" value="update 动态代理" />
   </component>
   <component name="WindowStateProjectService">
     <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1588611660630">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1588611660630" />
+    <state x="372" y="6" key="CommitChangelistDialog2" timestamp="1588612538563">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="372" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1588612538563" />
     <state x="523" y="127" key="DetectedRootsChooserDialog" timestamp="1588611733807">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="523" y="127" key="DetectedRootsChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1588611733807" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1588611722151">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1588653184651">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1588611722151" />
-    <state width="1493" height="221" key="GridCell.Tab.0.bottom" timestamp="1588612424763">
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1588653184651" />
+    <state width="1493" height="255" key="GridCell.Tab.0.bottom" timestamp="1588652624238">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="221" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588612424763" />
-    <state width="1493" height="221" key="GridCell.Tab.0.center" timestamp="1588612424763">
+    <state width="1493" height="255" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588652624238" />
+    <state width="1493" height="255" key="GridCell.Tab.0.center" timestamp="1588652624238">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="221" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588612424763" />
-    <state width="1493" height="221" key="GridCell.Tab.0.left" timestamp="1588612424763">
+    <state width="1493" height="255" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588652624238" />
+    <state width="1493" height="255" key="GridCell.Tab.0.left" timestamp="1588652624237">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="221" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588612424763" />
-    <state width="1493" height="221" key="GridCell.Tab.0.right" timestamp="1588612424763">
+    <state width="1493" height="255" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588652624237" />
+    <state width="1493" height="255" key="GridCell.Tab.0.right" timestamp="1588652624238">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="221" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588612424763" />
+    <state width="1493" height="255" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588652624238" />
     <state x="249" y="0" key="SettingsEditor" timestamp="1588612419759">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -170,6 +177,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="490" y="154" width="561" height="524" key="StructurePopup/0.0.1536.824@0.0.1536.824" timestamp="1588579863336" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1588612541812">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1588612541812" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1588611606309">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
