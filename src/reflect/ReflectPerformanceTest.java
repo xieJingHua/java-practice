@@ -5,7 +5,7 @@ import java.lang.reflect.Method;
 
 /**
  * 性能测试
- * 初步结果：感觉反射并不是很耗性能
+ * 初步结果：感觉反射并不是很耗性能,差不多
  * @author: xiejh
  * created at: 2020/12/29 10:48 上午
  */
